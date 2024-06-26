@@ -3,4 +3,4 @@ Example repository for REU git workshops
 
 Scott Coughlin loves the Vikings.
 
-Julia Giannini says hi. 
+Julia Giannini says bye 
